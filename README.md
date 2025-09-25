@@ -8,7 +8,7 @@
 ## 🛠️ Tech Stack & Tools
 
 - **Languages:** JavaScript, Python, C#
-- **Frontend:** React, HTML, CSS  
+- **Frontend:** React, React Icons, HTML, CSS, TailwindCSS, Daisy UI, Zustand
 - **Backend:** Node.js, Express.js  
 - **Databases:** PostgreSQL, MongoDB  
 - **Other Tools:** Git, Linux, Socket.io  
