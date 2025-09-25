@@ -20,7 +20,7 @@
 | Project | Description | Link |
 |---------|-------------|------|
 | 💬 **Chat App (Fullstack)** | Real-time chat application built with Node.js, React, and Socket.io | [View on GitHub](https://github.com/MuhammadEgb1/CHAT-APP) |
-| ✅ **To-Do (Fullstack)** | Fullstack task management application | [View on GitHub](https://github.com/MuhammadEgb1/To-Do) |
+| ✅ **Portfolio_App (Fullstack)** | Fullstack portfolio app to display projects and professional info | [View on GitHub](https://github.com/Muhammadegb1/Portfolio_App.git) |
 | 🛒 **Product Store** | Online store demo built with JavaScript | [View on GitHub](https://github.com/MuhammadEgb1/ProductStore) |
 | 📊 **Course Grader** | C# project for managing and grading courses | [View on GitHub](https://github.com/MuhammadEgb1/CourseGrader) |
 
