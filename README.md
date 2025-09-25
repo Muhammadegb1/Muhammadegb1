@@ -37,7 +37,7 @@
 ## 📫 Connect with Me
 
 - ✉️ **Email:** muhwork2001@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](linkedin.com/in/muhammad-egbaria)  
+- 💼 **LinkedIn:** [Myprofile](linkedin.com/in/muhammad-egbaria)  
 
 ---
 
