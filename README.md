@@ -1,15 +1,13 @@
 # 👋 Hi, I'm Muhammad Egbaria
 
-💻 **Aspiring Backend Developer** | Interested in **Fullstack & Frontend**  
-🎓 **Computer Science Graduate** with practical experience in full-stack web development  
-💡 Skilled in **React, Node.js, Express, PostgreSQL, and MongoDB**, with strong foundations in algorithms and software engineering  
-🚀 Passionate about problem-solving and growing as a **Junior Developer** in collaborative teams  
-
+🎓 Computer Science graduate with hands-on experience in **full-stack web development**.  
+💻 Skilled in **React, Node.js, Express, PostgreSQL, and MongoDB**, with strong foundations in algorithms and software engineering principles.  
+🚀 Passionate about problem-solving and eager to grow as a **Junior Developer** in a collaborative team.  
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-- **Languages:** JavaScript, Python, C#, HTML, CSS  
+- **Languages:** JavaScript, Python, C#
 - **Frontend:** React, HTML, CSS  
 - **Backend:** Node.js, Express.js  
 - **Databases:** PostgreSQL, MongoDB  
@@ -38,9 +36,8 @@
 
 ## 📫 Connect with Me
 
-- ✉️ **Email:** youremail@example.com  
-- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- 🌍 **Portfolio:** [your-portfolio.com](https://your-portfolio.com)  
+- ✉️ **Email:** muhwork2001@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](linkedin.com/in/muhammad-egbaria)  
 
 ---
 
