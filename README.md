@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Muhammad Egbaria
 
-🎓 Computer Science graduate with hands-on experience in **full-stack web development**.  
-💻 Skilled in **React, Node.js, Express, PostgreSQL, and MongoDB**, with strong foundations in algorithms and software engineering principles.  
-🚀 Passionate about problem-solving and eager to grow as a **Junior Developer** in a collaborative team.  
+🎓 Computer Science graduate with a strong foundation in software engineering, algorithms, and data structures.  
+💻 Experienced in building software and exploring applications of Artificial Intelligence and machine learning.  
+🚀 Motivated junior software developer with a strong problem-solving mindset and a passion for building reliable, maintainable, and intelligent systems.
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -10,28 +10,10 @@
 - **Languages:** JavaScript, Python, C#, C, Java
 - **Frontend:** React, React Icons, HTML, CSS, TailwindCSS, Daisy UI, Zustand
 - **Backend:** Node.js, Express.js  
-- **Databases:** PostgreSQL, MongoDB  
-- **Other Tools:** Git, Linux, Socket.io  
-
----
-
-## 📌 Featured Projects
-
-| Project | Description | Link |
-|---------|-------------|------|
-| 💬 **Chat App (Fullstack)** | Real-time chat application built with Node.js, React, and Socket.io | [View on GitHub](https://github.com/MuhammadEgb1/CHAT-APP) |
-| ✅ **Portfolio_App (Fullstack)** | Fullstack portfolio app to display projects and professional info | [View on GitHub](https://github.com/Muhammadegb1/Portfolio_App.git) |
-| 🛒 **Product Store** | Online store demo built with JavaScript | [View on GitHub](https://github.com/MuhammadEgb1/ProductStore) |
-| 📊 **Course Grader** | C# project for managing and grading courses | [View on GitHub](https://github.com/MuhammadEgb1/CourseGrader) |
-
----
-
-## 🌱 Currently Learning
-
-- Advanced **backend development** with Node.js + PostgreSQL/MongoDB  
-- Modern **frontend practices** in React  
-- **Software engineering best practices** & design patterns  
-
+- **Databases:** PostgreSQL, MongoDB
+- **AI & Machine Learning:** NLP concepts, LLMs, langchain
+- **Other Tools:** Git, Linux, Socket.io
+  
 ---
 
 ## 📫 Connect with Me
