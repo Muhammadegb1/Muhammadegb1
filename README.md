@@ -3,6 +3,7 @@
 🎓 Computer Science graduate with a strong foundation in software engineering, algorithms, and data structures.  
 💻 Experienced in building software and exploring applications of Artificial Intelligence and machine learning.  
 🚀 Motivated junior software developer with a strong problem-solving mindset and a passion for building reliable, maintainable, and intelligent systems.
+
 ---
 
 ## 🛠️ Tech Stack & Tools
