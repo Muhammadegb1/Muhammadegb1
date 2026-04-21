@@ -15,7 +15,7 @@
 - **Backend:** Node.js, Express.js  
 - **Databases:** PostgreSQL, MongoDB
 - **AI & Machine Learning:** NLP concepts, LLMs, langchain
-- **Other Tools:** Git, Linux, Socket.io
+- **Other Tools:** Git, Linux, Socket.io, Docker, AWS (EC2, S3, IAM, Bedrock), boto3
   
 ---
 
@@ -23,6 +23,7 @@
 - **[HR-Interview-Chatbot](https://github.com/Muhammadegb1/HR-Interview-Chatbot)** – AI-powered chatbot that simulates HR interview scenarios, helping users practice answers and get feedback.  
 - **[Portfolio](https://github.com/Muhammadegb1/Portfolio_App)** – Personal portfolio website with dynamic content and admin features to showcase projects and skills. 
 - **[CHAT-APP](https://github.com/Muhammadegb1/CHAT-APP?tab=readme-ov-file)** – Real-time chat application allowing users to communicate instantly, manage profiles, and see online status.
+- **[football-rag_AWS](https://github.com/Muhammadegb1/northmed-football-rag)** - RAG web app powered by Amazon Bedrock Agent, Flask, Docker, and EC2 — answers football questions using a custom Knowledge Base and Claude 3 Haiku.
   
 ---
 
