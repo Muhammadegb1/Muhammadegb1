@@ -14,7 +14,7 @@
 - **Frontend:** React, React Icons, HTML, CSS, TailwindCSS, Daisy UI, Zustand
 - **Backend:** Node.js, Express.js  
 - **Databases:** PostgreSQL, MongoDB
-- **AI & Machine Learning:** NLP concepts, LLMs, langchain
+- **AI & Machine Learning:** NLP concepts, LLMs, langchain, Amazon Bedrock, Bedrock Agent, Bedrock Knowledge Base, RAG (Retrieval-Augmented Generation),  Amazon OpenSearch Serverl
 - **Other Tools:** Git, Linux, Socket.io, Docker, AWS (EC2, S3, IAM, Bedrock), boto3
   
 ---
