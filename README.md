@@ -4,8 +4,7 @@
 💻 Experienced in building software and exploring applications of Artificial Intelligence and machine learning.  
 🚀 Motivated junior software developer with a strong problem-solving mindset and a passion for building reliable, maintainable, and intelligent systems.
 
-[![Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge)](https://github.com/Muhammadegb1/Muhammadegb1/raw/main/Muhammad_Cv.pdf)
-
+[![Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge)](https://github.com/Muhammadegb1/Muhammadegb1/raw/main/Muhammad Cv.pdf)
 ---
 
 ## 🛠️ Tech Stack & Tools
