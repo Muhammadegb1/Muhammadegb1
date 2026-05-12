@@ -24,7 +24,7 @@
 - **[Portfolio](https://github.com/Muhammadegb1/Portfolio_App)** – Personal portfolio website with dynamic content and admin features to showcase projects and skills. 
 - **[CHAT-APP](https://github.com/Muhammadegb1/CHAT-APP?tab=readme-ov-file)** – Real-time chat application allowing users to communicate instantly, manage profiles, and see online status.
 - **[football-rag_AWS](https://github.com/Muhammadegb1/northmed-football-rag)** - RAG web app powered by Amazon Bedrock Agent, Flask, Docker, and EC2 — answers football questions using a custom Knowledge Base and Claude 3 Haiku.
-- - **[Intelligent-Document-Analyst_n8n](https://github.com/Muhammadegb1/Intelligent-Document-Analyst_n8n)** – Intelligent document processing and analysis workflow built with n8n, Gemini AI, Google Drive, and Google Sheets. Automatically classifies documents, extracts entities and action items, performs sensitivity detection, generates summaries, triggers alerts for confidential files, and logs structured results in real time.
+- **[Intelligent-Document-Analyst_n8n](https://github.com/Muhammadegb1/Intelligent-Document-Analyst_n8n)** – Intelligent document processing and analysis workflow built with n8n, Gemini AI, Google Drive, and Google Sheets. Automatically classifies documents, extracts entities and action items, performs sensitivity detection, generates summaries, triggers alerts for confidential files, and logs structured results in real time.
   
 ---
 
